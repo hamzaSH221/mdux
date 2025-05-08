@@ -1,12 +1,5 @@
 {
-  "computer_science": [
-    "Make CV Website",
-    "A-Z Cars Website"
-  ],
-  "cyber_security": [
-    "Networking Presentation"
-  ],
-  "artificial_intelligence": [
-    "Report"
-  ]
+  "computer science": ["make cv website", "a-z cars website"],
+  "cyber security": ["networking presentation"],
+  "artificial intelligence": ["report"]
 }
