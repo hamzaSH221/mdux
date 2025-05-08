@@ -1,0 +1,25 @@
+{
+  "shopping": [
+    "Get weekly food shopping",
+    "Buy toiletries",
+    "Restock snacks",
+    "Purchase stationery"
+  ],
+  "assignments": [
+    "Computer Science",
+    "Cyber Security",
+    "Artificial Intelligence"
+  ],
+  "group work": [
+    "Start the group project",
+    "Discuss things with group",
+    "Meet group for midway meeting",
+    "Prepare group presentation"
+  ],
+  "final year project": [
+    "Start final year project",
+    "Attend weekly meetings",
+    "Meet with supervisor",
+    "Submit progress report"
+  ]
+}
